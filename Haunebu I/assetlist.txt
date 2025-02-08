@@ -1,0 +1,9 @@
+Below are the paths for all the assets included in the asset bundle "NEBUassets"
+Example usage in an aircraft definition:
+"ModelPath": "assets/microfalcon/export/aircraft/resources/a10a/a10a.fbx"
+
+assets/modnebu/hauneb.fbx
+assets/modnebu/nebu.mat
+assets/modnebu/nebuanimator.controller
+assets/modnebu/ufo.png
+assets/modnebu/animations/nebugearup.anim

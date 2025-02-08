@@ -1,0 +1,33 @@
+[
+  {
+    "Name": "MK-112 AUFGELADEN",
+    "DisplayName": "MK-112 AUFGELADEN",
+    "Bullet": "112mm",
+    "MuzzleFlash": "Effects/MuzzleFlash/ShilkaMuzzleFlash",
+    "UseAmmo": true,
+    "AmmoCount": 1000,
+    "RecoilForce": 350,
+    "Gun":
+    {
+      "FireDelay": 0.02,
+      "FireDelayRandomization": 0.0,
+      "MuzzleVelocity": 9040,
+      "Deviation": 0.05,
+      "UseSequentialFiring": true,
+      "BurstLength": 1,
+      "BurstDelay": 0.0
+    },
+    "Audio":
+    {
+      "Sound": "event:/Weapons/CannonMedium",
+      "IsLoopingAudio": false
+    },
+    "Shake":
+    {
+      "Power": 9.04,
+      "IsContinuous": true,
+      "MinRange": 250,
+      "MaxRange": 650
+    }
+  }
+]

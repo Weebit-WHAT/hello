@@ -1,0 +1,33 @@
+[
+  {
+    "Name": "112mm",
+    "BulletType": "Aicraft",
+
+    "TracerColor": [115, 255, 83],
+    "TracerSize": 0.2,
+    "TracerLength": 9,
+
+    "TimeToLive": 9.8,
+    "Gravity": 0.02,
+    "IsThick": true,
+    "BulletDiameter": 5.5,
+
+    "ImpactDamage": 17,
+    "ImpactPenetration": 17,
+    "ImpactForce": 1,
+    "IsFriendlyFireEnabled": true,
+
+    "ExplodeOnImpact": true,
+    "ExplodeOnTimeout": false,
+    "BlastRadius": 86.0,
+    "SplashPenetration": 62,
+    "SplashDamage": 45,
+
+    "CraterSize": " Medium",
+    "GroundImpactFxName": "GrassAC",
+    "WaterImpactFxName": "WaterAC",
+    "HitFxName": "ExplosionAC",
+    "ExplodeFxName": "ExplosionAC",
+    "PenetrateFxName": "PenetrateAC"
+  }
+]

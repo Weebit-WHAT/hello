@@ -1,0 +1,114 @@
+{
+  "Name": "Haunebu I",
+  "AllowedStores": [
+    {
+      "Store": "X4",
+      "MaxCountPerStation": {
+        "1": 1,
+        "2": 1
+      },
+      "LauncherModelPaths": {
+        "1": "",
+        "2": ""
+        }
+      }
+    ],
+  "Loadouts": [
+    {
+      "Name": "Clean",
+      "NormalizedFuel": 1.0,
+      "Stores": []
+    },
+    {
+      "Name": "Dogfight",
+      "NormalizedFuel": 0.78,
+      "Stores": [
+        {
+          "Station": 1, 
+          "Name": "X4",
+          "Count": 1
+        },
+        {
+          "Station": 2, 
+          "Name": "X4",
+          "Count": 1
+        },
+        {
+          "Station": 3, 
+          "Name": "X4",
+          "Count": 1
+        },
+        {
+          "Station": 4, 
+          "Name": "X4",
+          "Count": 1
+        },
+        {
+          "Station": 5, 
+          "Name": "X4",
+          "Count": 1
+        },
+        {
+          "Station": 6, 
+          "Name": "X4",
+          "Count": 1
+},
+        {
+          "Station": 7, 
+          "Name": "X4",
+          "Count": 1
+},
+        {
+          "Station": 8, 
+          "Name": "X4",
+          "Count": 1
+
+
+        }
+	  ]
+    },
+    {
+      "Name": "Flakrakete Plattform",
+      "NormalizedFuel": 0.78,
+      "Stores": [
+        {
+          "Station": 9, 
+          "Name": "Enzian E-4",
+          "Count": 1
+        },
+        {
+          "Station": 10, 
+          "Name": "Enzian E-4",
+          "Count": 1
+},
+        {
+          "Station": 11, 
+          "Name": "Enzian E-5",
+          "Count": 1
+},
+        {
+          "Station": 12, 
+          "Name": "Enzian E-5",
+          "Count": 1
+
+ 	}
+	  ]
+    },
+    {
+      "Name": "Anti-Shipping",
+      "NormalizedFuel": 0.89,
+      "Stores": [
+        {
+          "Station": 2, 
+          "Name": "Hs293A",
+          "Count": 1
+	},
+        {
+          "Station": 1, 
+          "Name": "Hs293A",
+          "Count": 1
+        }
+      ]
+    }
+  ]
+}
